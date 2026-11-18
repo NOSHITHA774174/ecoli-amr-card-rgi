@@ -1,0 +1,11 @@
+genomes/
+genomes_clean/
+clinical/
+card/
+localDB/
+results/*.json
+.DS_Store
+.RData
+.Rhistory
+Miniforge3-Darwin-arm64.sh
+card.tar.bz2
